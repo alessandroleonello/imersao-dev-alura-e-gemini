@@ -9,7 +9,8 @@ Em um país onde a história muitas vezes foi contada por uma única perspectiva
 
 Além de seu valor cultural, o projeto foi estruturado para servir como uma base de dados aberta. Escolas, pesquisadores e instituições que buscam materiais sobre a história negra no Brasil podem utilizar as informações aqui compiladas, reforçando a importância do tema e auxiliando no combate ao apagamento histórico.
 
-<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/39f2b154-3169-448e-b21d-905a5e39b9ee" />
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/ff554e31-0207-41c5-981d-858c8aa3d6e4" />
+
 
 ---
 ## 🚀 Funcionalidades do Projeto
@@ -24,6 +25,7 @@ A plataforma foi desenvolvida para ser uma experiência de aprendizado rica e ac
     -   **Descrição:** Um resumo conciso sobre sua vida, suas obras e seu impacto.
     -   **Saiba Mais:** Um link direto para a página da Wikipédia (ou outra fonte), permitindo um aprofundamento no assunto.
 -   **🔍 Busca Inteligente:** Um campo de busca que filtra as personalidades em tempo real conforme o usuário digita, tornando a navegação rápida e intuitiva.
+-   **Filtros** Filtrar personalidades por área de atuação (Música, Literatura, Política, Esporte, etc.) para facilitar a pesquisa temática.
 -   **📱 Design Responsivo:** A interface se adapta perfeitamente a diferentes tamanhos de tela, como celulares, tablets e desktops, garantindo uma ótima experiência para todos os usuários.
 
 ---
@@ -63,8 +65,7 @@ Sua contribuição é muito valiosa para enriquecer ainda mais esta base de conh
 ## 🌟 Funcionalidades Futuras
 
 Para tornar este projeto ainda mais rico e interativo, aqui estão algumas ideias para futuras implementações:
-
--   **Categorias e Tags:** Filtrar personalidades por área de atuação (Música, Literatura, Política, Esporte, etc.) para facilitar a pesquisa temática.
+ 
 -   **Linha do Tempo Interativa:** Uma visualização cronológica que permita navegar pela história e ver como as vidas dessas personalidades se cruzaram no tempo.
 -   **Mapa do Brasil Interativo:** Exibir no mapa os locais de nascimento ou de grande influência de cada personalidade, criando uma geografia da história negra no país.
 -   **"Neste Dia na História":** Uma seção que destaca diariamente uma personalidade que nasceu, faleceu ou realizou um grande feito na data atual.
@@ -76,5 +77,6 @@ Para tornar este projeto ainda mais rico e interativo, aqui estão algumas ideia
 
 
 > Que este projeto sirva como uma fonte de inspiração e um lembrete constante de que a história do Brasil é, e sempre será, uma história negra. 🖤
+
 
 
