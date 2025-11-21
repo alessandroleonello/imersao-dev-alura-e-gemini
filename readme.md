@@ -1,6 +1,6 @@
 # ✊🏿 Base de Conhecimento: Gigantes da História Negra do Brasil 
 
-O projeto atual faz parte da imersão Dev da Alura com o Google Gemini, por isso ainda é um projeto inicial e que poderá possuir mais funçõe futuramente.
+O projeto atual faz parte da imersão Dev da Alura com o Google Gemini, por isso ainda é um projeto inicial e que poderá possuir mais funções futuramente.
 
 Este projeto é uma homenagem digital e uma fonte de conhecimento dedicada a celebrar as vidas e os legados de personalidades negras que foram e são fundamentais na construção da história e da cultura do Brasil. Mais do que uma simples lista, é um convite à descoberta e ao reconhecimento das imensas contribuições em áreas como a arte, a ciência, a política, o esporte e o ativismo.
 
@@ -71,5 +71,6 @@ Para tornar este projeto ainda mais rico e interativo, aqui estão algumas ideia
 -   **API Pública:** Disponibilizar os dados em formato de API para que outros desenvolvedores possam criar suas próprias aplicações e visualizações a partir desta base de conhecimento.
 
 ---
+
 
 > Que este projeto sirva como uma fonte de inspiração e um lembrete constante de que a história do Brasil é, e sempre será, uma história negra. 🖤
