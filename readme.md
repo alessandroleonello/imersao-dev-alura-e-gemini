@@ -1,4 +1,5 @@
 # ✊🏿 Base de Conhecimento: Gigantes da História Negra do Brasil 
+https://alessandroleonello.github.io/imersao-dev-alura-e-gemini/
 
 O projeto atual faz parte da imersão Dev da Alura com o Google Gemini, por isso ainda é um projeto inicial e que poderá possuir mais funções futuramente.
 
@@ -8,8 +9,9 @@ Em um país onde a história muitas vezes foi contada por uma única perspectiva
 
 Além de seu valor cultural, o projeto foi estruturado para servir como uma base de dados aberta. Escolas, pesquisadores e instituições que buscam materiais sobre a história negra no Brasil podem utilizar as informações aqui compiladas, reforçando a importância do tema e auxiliando no combate ao apagamento histórico.
 
----
+<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/39f2b154-3169-448e-b21d-905a5e39b9ee" />
 
+---
 ## 🚀 Funcionalidades do Projeto
 
 A plataforma foi desenvolvida para ser uma experiência de aprendizado rica e acessível.
@@ -74,3 +76,4 @@ Para tornar este projeto ainda mais rico e interativo, aqui estão algumas ideia
 
 
 > Que este projeto sirva como uma fonte de inspiração e um lembrete constante de que a história do Brasil é, e sempre será, uma história negra. 🖤
+
