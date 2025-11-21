@@ -4,524 +4,599 @@
     "ano": "1942 - presente",
     "descricao": "Cantor e compositor brasileiro, conhecido por sua voz única e por suas contribuições à música popular brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Milton_Nascimento",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Milton_Nascimento_2008.04.30_001.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Milton_Nascimento_2008.04.30_001.jpg?width=600",
+    "categoria": ["Música"]
   },
   {
     "nome": "Carolina Maria de Jesus",
     "ano": "1914 - 1977",
     "descricao": "Escritora, cantora, compositora e poetisa brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Carolina_Maria_de_Jesus",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolina_Maria_de_Jesus,_1960_(cropped).png?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolina_Maria_de_Jesus,_1960_(cropped).png?width=600",
+    "categoria": ["Literatura", "Música"]
   },
   {
     "nome": "Machado de Assis",
     "ano": "1839 - 1908",
     "descricao": "Escritor brasileiro, amplamente considerado como o maior nome da literatura nacional.",
     "link": "https://pt.wikipedia.org/wiki/Machado_de_Assis",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Machado_de_Assis_by_Marc_Ferrez_-_Original.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Machado_de_Assis_by_Marc_Ferrez_-_Original.jpg?width=600",
+    "categoria": ["Literatura"]
   },
   {
     "nome": "Zumbi dos Palmares",
     "ano": "1655 - 1695",
     "descricao": "Último dos líderes do Quilombo dos Palmares, o maior dos quilombos do período colonial no Brasil.",
     "link": "https://pt.wikipedia.org/wiki/Zumbi_dos_Palmares",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Zumbi_dos_Palmares_2012-12-25.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Zumbi_dos_Palmares_2012-12-25.jpg?width=600",
+    "categoria": ["Liderança", "Ativismo"]
   },
   {
     "nome": "Elza Soares",
     "ano": "1930 - 2022",
     "descricao": "Cantora e compositora brasileira, eleita em 1999 pela Rádio BBC de Londres como a cantora brasileira do milênio.",
     "link": "https://pt.wikipedia.org/wiki/Elza_Soares",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Elza_Soares_recebendo_o_diploma_de_Embaixatriz_do_Samba_no_Museu_da_Imagem_e_do_Sim%2C_com_Garrincha_ao_fundo_%28cropped%29.tif/lossy-page1-390px-Elza_Soares_recebendo_o_diploma_de_Embaixatriz_do_Samba_no_Museu_da_Imagem_e_do_Sim%2C_com_Garrincha_ao_fundo_%28cropped%29.tif.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Elza_Soares_recebendo_o_diploma_de_Embaixatriz_do_Samba_no_Museu_da_Imagem_e_do_Sim%2C_com_Garrincha_ao_fundo_%28cropped%29.tif/lossy-page1-390px-Elza_Soares_recebendo_o_diploma_de_Embaixatriz_do_Samba_no_Museu_da_Imagem_e_do_Sim%2C_com_Garrincha_ao_fundo_%28cropped%29.tif.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Lélia Gonzalez",
     "ano": "1935 - 1994",
     "descricao": "Intelectual, política, professora e antropóloga brasileira. Foi uma figura chave no movimento negro brasileiro.",
     "link": "https://pt.wikipedia.org/wiki/L%C3%A9lia_Gonzalez",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Lélia_Gonzalez_by_Cezar_Loureiro.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Lélia_Gonzalez_by_Cezar_Loureiro.jpg?width=600",
+    "categoria": ["Academia", "Política", "Ativismo"]
   },
   {
     "nome": "Abdias do Nascimento",
     "ano": "1914 - 2011",
     "descricao": "Ator, poeta, escritor, dramaturgo, artista plástico, professor universitário, político e ativista dos direitos civis e humanos das populações negras.",
     "link": "https://pt.wikipedia.org/wiki/Abdias_do_Nascimento",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Abdias_do_Nascimento_senador.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Abdias_do_Nascimento_senador.jpg",
+    "categoria": ["Arte", "Literatura", "Política", "Ativismo"]
   },
   {
     "nome": "Gilberto Gil",
     "ano": "1942 - presente",
     "descricao": "Músico, cantor, compositor e ex-ministro da cultura. Um dos fundadores do movimento Tropicalismo, revolucionando a música popular brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Gilberto_Gil",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gilberto_Gil%2C_May_2025.jpg/500px-Gilberto_Gil%2C_May_2025.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gilberto_Gil%2C_May_2025.jpg/500px-Gilberto_Gil%2C_May_2025.jpg",
+    "categoria": ["Música", "Política"]
   },
   {
     "nome": "Conceição Evaristo",
     "ano": "1946 - presente",
     "descricao": "Escritora e acadêmica. Conhecida por sua prosa e poesia que abordam a vivência da mulher negra na sociedade brasileira, cunhando o termo 'escrevivência'.",
     "link": "https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Concei%C3%A7%C3%A3o_Evaristo%2C_September_2024.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Concei%C3%A7%C3%A3o_Evaristo%2C_September_2024.jpg",
+    "categoria": ["Literatura", "Academia"]
   },
   {
     "nome": "Luiz Gama",
     "ano": "1830 - 1882",
     "descricao": "Advogado, jornalista e abolicionista. Nascido livre, mas escravizado ilegalmente, tornou-se um dos maiores defensores jurídicos dos escravizados no Brasil, libertando centenas de pessoas.",
     "link": "https://pt.wikipedia.org/wiki/Luiz_Gama",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Luiz_Gama_by_Raul_Pompeia_1882.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Luiz_Gama_by_Raul_Pompeia_1882.jpg?width=600",
+    "categoria": ["Direito", "Jornalismo", "Ativismo"]
   },
   {
     "nome": "Ruth de Souza",
     "ano": "1921 - 2019",
     "descricao": "Atriz pioneira no teatro, cinema e televisão. Foi a primeira atriz negra a protagonizar um filme brasileiro (Terra em Transe) e a ser indicada ao prêmio de Melhor Atriz em Cannes.",
     "link": "https://pt.wikipedia.org/wiki/Ruth_de_Souza",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ruth_de_Souza_%281968%29.tif/lossy-page1-375px-Ruth_de_Souza_%281968%29.tif.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ruth_de_Souza_%281968%29.tif/lossy-page1-375px-Ruth_de_Souza_%281968%29.tif.jpg",
+    "categoria": ["Artes Cênicas"]
   },
   {
     "nome": "Pixinguinha",
     "ano": "1897 - 1973",
     "descricao": "Músico, compositor, arranjador e flautista. Um dos maiores expoentes da música popular brasileira e fundamental na consolidação do Choro.",
     "link": "https://pt.wikipedia.org/wiki/Pixinguinha",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Pixinguinha_tocando_harmônio.png?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Pixinguinha_tocando_harmônio.png?width=600",
+    "categoria": ["Música"]
   },
   {
     "nome": "Marielle Franco",
     "ano": "1979 - 2018",
     "descricao": "Socióloga, ativista e política. Vereadora do Rio de Janeiro assassinada em 2018, tornou-se um símbolo internacional da luta por direitos humanos, justiça racial e LGBT.",
     "link": "https://pt.wikipedia.org/wiki/Marielle_Franco",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Marielle_Franco.jpg/500px-Marielle_Franco.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Marielle_Franco.jpg/500px-Marielle_Franco.jpg",
+    "categoria": ["Política", "Ativismo"]
   },
   {
     "nome": "Pelé",
     "ano": "1940 - 2022",
     "descricao": "Futebolista, amplamente considerado o Rei do Futebol e um dos maiores atletas de todos os tempos. Único jogador a vencer três Copas do Mundo.",
     "link": "https://pt.wikipedia.org/wiki/Pel%C3%A9",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pele_con_brasil_%28cropped%29.jpg/375px-Pele_con_brasil_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pele_con_brasil_%28cropped%29.jpg/375px-Pele_con_brasil_%28cropped%29.jpg",
+    "categoria": ["Esporte"]
   },
   {
     "nome": "Clementina de Jesus",
     "ano": "1901 - 1987",
     "descricao": "Cantora. Rainha do 'Partido Alto' e fundamental para a preservação e difusão das tradições do samba de raiz e dos cantos de candomblé.",
     "link": "https://pt.wikipedia.org/wiki/Clementina_de_Jesus",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/aa/Clementina_de_Jesus.jpg/375px-Clementina_de_Jesus.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/aa/Clementina_de_Jesus.jpg/375px-Clementina_de_Jesus.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Cartola",
     "ano": "1908 - 1980",
     "descricao": "Compositor, cantor e poeta. Um dos maiores sambistas da história e fundador da escola de samba Estação Primeira de Mangueira.",
     "link": "https://pt.wikipedia.org/wiki/Cartola_(compositor)",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Cartola_1966.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Cartola_1966.jpg?width=600",
+    "categoria": ["Música", "Literatura"]
   },
   {
     "nome": "Grande Otelo",
     "ano": "1915 - 1993",
     "descricao": "Ator, cantor e comediante. Considerado um gênio do humor e da dramaturgia brasileira, com carreira que atravessou o teatro de revista, cinema e televisão.",
     "link": "https://pt.wikipedia.org/wiki/Grande_Otelo",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Grande_Otelo_1945.png?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Grande_Otelo_1945.png?width=600",
+    "categoria": ["Artes Cênicas", "Música"]
   },
   {
     "nome": "Antonieta de Barros",
     "ano": "1901 - 1952",
     "descricao": "Jornalista, professora e política. Primeira mulher negra a assumir um mandato popular no Brasil e uma das pioneiras na luta pela educação e emancipação feminina.",
     "link": "https://pt.wikipedia.org/wiki/Antonieta_de_Barros",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Antonieta_de_Barros.webp/500px-Antonieta_de_Barros.webp.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Antonieta_de_Barros.webp/500px-Antonieta_de_Barros.webp.png",
+    "categoria": ["Jornalismo", "Academia", "Política"]
   },
   {
     "nome": "André Rebouças",
     "ano": "1838 - 1898",
     "descricao": "Engenheiro, inventor e abolicionista. Um dos precursores da engenharia moderna brasileira e ferrenho defensor da abolição da escravatura.",
     "link": "https://pt.wikipedia.org/wiki/Andr%C3%A9_Rebou%C3%A7as",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Andr%C3%A9_Pinto_Rebou%C3%A7as%2C_da_cole%C3%A7%C3%A3o_Museu_Hist%C3%B3rico_Nacional%2C_Brasil.jpg/500px-Andr%C3%A9_Pinto_Rebou%C3%A7as%2C_da_cole%C3%A7%C3%A3o_Museu_Hist%C3%B3rico_Nacional%2C_Brasil.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Andr%C3%A9_Pinto_Rebou%C3%A7as%2C_da_cole%C3%A7%C3%A3o_Museu_Hist%C3%B3rico_Nacional%2C_Brasil.jpg/500px-Andr%C3%A9_Pinto_Rebou%C3%A7as%2C_da_cole%C3%A7%C3%A3o_Museu_Hist%C3%B3rico_Nacional%2C_Brasil.jpg",
+    "categoria": ["Engenharia", "Ativismo"]
   },
   {
     "nome": "Lima Barreto",
     "ano": "1881 - 1922",
     "descricao": "Escritor e jornalista. Crítico mordaz da sociedade carioca da Primeira República, é autor de 'Triste Fim de Policarpo Quaresma', denunciando o racismo e as desigualdades sociais.",
     "link": "https://brasilescola.uol.com.br/literatura/lima-barreto-1.htm",
-    "imagem": "https://s2.static.brasilescola.uol.com.br/be/2020/05/lima-barreto.jpg"
+    "imagem": "https://s2.static.brasilescola.uol.com.br/be/2020/05/lima-barreto.jpg",
+    "categoria": ["Literatura", "Jornalismo"]
   },
   {
     "nome": "Dandara dos Palmares",
     "ano": "1654 - 1694",
     "descricao": "Guerreira do Quilombo dos Palmares, companheira de Zumbi. Símbolo de resistência feminina e luta contra a escravidão.",
     "link": "https://pt.wikipedia.org/wiki/Dandara_dos_Palmares",
-    "imagem": "https://3.bp.blogspot.com/-JDofljcnfnM/Wr5FiIs6HTI/AAAAAAAALD4/DFOdDV_BEqc56QziA0wwdOQ0reZ_eJpqQCLcBGAs/s1600/29570376_1667547289977531_4528553140188810417_n.jpg"
+    "imagem": "https://3.bp.blogspot.com/-JDofljcnfnM/Wr5FiIs6HTI/AAAAAAAALD4/DFOdDV_BEqc56QziA0wwdOQ0reZ_eJpqQCLcBGAs/s1600/29570376_1667547289977531_4528553140188810417_n.jpg",
+    "categoria": ["Liderança", "Ativismo"]
   },
   {
     "nome": "Dona Ivone Lara",
     "ano": "1921 - 2018",
     "descricao": "Cantora e compositora. A primeira mulher a compor sambas-enredo e uma das mais importantes representantes da ala de compositores da Império Serrano.",
     "link": "https://pt.wikipedia.org/wiki/Dona_Ivone_Lara",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Quinteto_em_Branco_e_Preto_e_D._Ivone_Lara_%282449338907%29.jpg/500px-Quinteto_em_Branco_e_Preto_e_D._Ivone_Lara_%282449338907%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Quinteto_em_Branco_e_Preto_e_D._Ivone_Lara_%282449338907%29.jpg/500px-Quinteto_em_Branco_e_Preto_e_D._Ivone_Lara_%282449338907%29.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Benedita da Silva",
     "ano": "1942 - presente",
     "descricao": "Política e ativista. Primeira mulher negra a ser eleita senadora e a governar o estado do Rio de Janeiro, com forte atuação na defesa dos direitos dos marginalizados.",
     "link": "https://pt.wikipedia.org/wiki/Benedita_da_Silva",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Benedita_da_Silva%2C_November_2024_%28cropped%29.jpg/500px-Benedita_da_Silva%2C_November_2024_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Benedita_da_Silva%2C_November_2024_%28cropped%29.jpg/500px-Benedita_da_Silva%2C_November_2024_%28cropped%29.jpg",
+    "categoria": ["Política", "Ativismo"]
   },
   {
     "nome": "Tia Ciata",
     "ano": "1854 - 1924",
     "descricao": "Mãe de Santo e cozinheira baiana. Sua casa no Rio de Janeiro foi um dos berços do samba urbano carioca e ponto de encontro de grandes músicos e compositores.",
     "link": "https://pt.wikipedia.org/wiki/Tia_Ciata",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tia_Ciata_Minc.png/500px-Tia_Ciata_Minc.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tia_Ciata_Minc.png/500px-Tia_Ciata_Minc.png",
+    "categoria": ["Cultura", "Religião"]
   },
   {
     "nome": "João Cândido",
     "ano": "1880 - 1969",
     "descricao": "Marinheiro, conhecido como 'Almirante Negro'. Líder da Revolta da Chibata (1910), movimento que exigia o fim dos castigos físicos na Marinha Brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_C%C3%A2ndido",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gazeta_de_noticias_31-12-1912_02.jpg/500px-Gazeta_de_noticias_31-12-1912_02.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gazeta_de_noticias_31-12-1912_02.jpg/500px-Gazeta_de_noticias_31-12-1912_02.jpg",
+    "categoria": ["Liderança", "Ativismo"]
   },
   {
     "nome": "Maria Firmina dos Reis",
     "ano": "1825 - 1917",
     "descricao": "Escritora, poetisa e professora. Considerada a primeira romancista brasileira, autora de 'Úrsula', obra de forte cunho abolicionista.",
     "link": "https://pt.wikipedia.org/wiki/Maria_Firmina_dos_Reis",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Maria_firmina_%28detailed%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Maria_firmina_%28detailed%29.jpg",
+    "categoria": ["Literatura", "Academia"]
   },
   {
     "nome": "Mestre Pastinha",
     "ano": "1889 - 1981",
     "descricao": "Capoeirista. Um dos maiores mestres da Capoeira Angola, responsável pela preservação de suas raízes históricas, filosóficas e rituais.",
     "link": "https://pt.wikipedia.org/wiki/Mestre_Pastinha",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0d/Mestre_Pastinha.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0d/Mestre_Pastinha.jpg",
+    "categoria": ["Esporte", "Cultura"]
   },
   {
     "nome": "Daiane dos Santos",
     "ano": "1983 - presente",
     "descricao": "Ginasta. Primeira campeã mundial brasileira na ginástica artística e detentora do movimento 'Duplo Twist Carpado', nomeado em sua homenagem.",
     "link": "https://pt.wikipedia.org/wiki/Daiane_dos_Santos",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Daiane_dos_Santos_13072007.jpg/330px-Daiane_dos_Santos_13072007.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Daiane_dos_Santos_13072007.jpg/330px-Daiane_dos_Santos_13072007.jpg",
+    "categoria": ["Esporte"]
   },
   {
     "nome": "Taís Araújo",
     "ano": "1978 - presente",
     "descricao": "Atriz e apresentadora. Tornou-se a primeira protagonista negra em uma novela das oito (Xica da Silva) e é uma voz ativa contra o racismo na mídia brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Ta%C3%ADs_Ara%C3%BAjo",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_20_%28Ta%C3%ADs_Ara%C3%BAjo%29_%28cropped%29.jpg/330px-100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_20_%28Ta%C3%ADs_Ara%C3%BAjo%29_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_20_%28Ta%C3%ADs_Ara%C3%BAjo%29_%28cropped%29.jpg/330px-100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_20_%28Ta%C3%ADs_Ara%C3%BAjo%29_%28cropped%29.jpg",
+    "categoria": ["Artes Cênicas", "Ativismo"]
   },
   {
     "nome": "Jorge Ben Jor",
     "ano": "1939 - presente",
     "descricao": "Músico e compositor. Criador de um estilo único que mistura samba, rock, bossa nova e funk, influenciando gerações de artistas brasileiros e internacionais.",
     "link": "https://pt.wikipedia.org/wiki/Jorge_Ben_Jor",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IBPA_2187_-_Show_N%C3%ADvea_com_Jorge_Benjor%2C_Skank_e_C%C3%A9u_-_2017-04-02_-_Ricardo_Giusti-PMPA_%28cropped%29.jpg/500px-IBPA_2187_-_Show_N%C3%ADvea_com_Jorge_Benjor%2C_Skank_e_C%C3%A9u_-_2017-04-02_-_Ricardo_Giusti-PMPA_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IBPA_2187_-_Show_N%C3%ADvea_com_Jorge_Benjor%2C_Skank_e_C%C3%A9u_-_2017-04-02_-_Ricardo_Giusti-PMPA_%28cropped%29.jpg/500px-IBPA_2187_-_Show_N%C3%ADvea_com_Jorge_Benjor%2C_Skank_e_C%C3%A9u_-_2017-04-02_-_Ricardo_Giusti-PMPA_%28cropped%29.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Sandra de Sá",
     "ano": "1955 - presente",
     "descricao": "Cantora e compositora. Conhecida como a 'Rainha do Soul Brasileiro', popularizando o gênero R&B e funk na música pop nacional.",
     "link": "https://pt.wikipedia.org/wiki/Sandra_de_S%C3%A1",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sandra_de_S%C3%A1_2012.jpg/330px-Sandra_de_S%C3%A1_2012.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sandra_de_S%C3%A1_2012.jpg/330px-Sandra_de_S%C3%A1_2012.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Martinho da Vila",
     "ano": "1938 - presente",
     "descricao": "Cantor, compositor e escritor. Um dos nomes mais tradicionais do samba e da música popular brasileira, com forte ligação com a escola de samba Unidos de Vila Isabel.",
     "link": "https://pt.wikipedia.org/wiki/Martinho_da_Vila",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Paris_-_Salon_du_livre_2012_-_Martinho_Da_Vila_-_002_%28cropped%29.jpg/500px-Paris_-_Salon_du_livre_2012_-_Martinho_Da_Vila_-_002_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Paris_-_Salon_du_livre_2012_-_Martinho_Da_Vila_-_002_%28cropped%29.jpg/500px-Paris_-_Salon_du_livre_2012_-_Martinho_Da_Vila_-_002_%28cropped%29.jpg",
+    "categoria": ["Música", "Literatura"]
   },
   {
     "nome": "Djamila Ribeiro",
     "ano": "1980 - presente",
     "descricao": "Filósofa, feminista negra, acadêmica e ativista brasileira. É uma das vozes mais proeminentes do feminismo e antirracismo no Brasil contemporâneo.",
     "link": "https://pt.wikipedia.org/wiki/Djamila_Ribeiro",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Djamila_Ribeiro.jpg/500px-Djamila_Ribeiro.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Djamila_Ribeiro.jpg/500px-Djamila_Ribeiro.jpg",
+    "categoria": ["Academia", "Ativismo", "Literatura"]
   },
   {
     "nome": "Sueli Carneiro",
     "ano": "1950 - presente",
     "descricao": "Filósofa, escritora e ativista do movimento social negro e feminista brasileiro. É fundadora e diretora do Geledés - Instituto da Mulher Negra.",
     "link": "https://pt.wikipedia.org/wiki/Sueli_Carneiro",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sueli-carneiro-foto-andre-seiti-e1521580460291.jpg/500px-Sueli-carneiro-foto-andre-seiti-e1521580460291.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sueli-carneiro-foto-andre-seiti-e1521580460291.jpg/500px-Sueli-carneiro-foto-andre-seiti-e1521580460291.jpg",
+    "categoria": ["Academia", "Ativismo", "Literatura"]
   },
   {
     "nome": "Milton Gonçalves",
     "ano": "1933 - 2022",
     "descricao": "Ator, diretor e dublador brasileiro. Foi um dos pioneiros da presença negra na televisão e no cinema brasileiro, com uma carreira que durou mais de seis décadas.",
     "link": "https://pt.wikipedia.org/wiki/Milton_Gon%C3%A7alves",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Milton_Gon%C3%A7alves_26_PMB_cropped.jpg/360px-Milton_Gon%C3%A7alves_26_PMB_cropped.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Milton_Gon%C3%A7alves_26_PMB_cropped.jpg/360px-Milton_Gon%C3%A7alves_26_PMB_cropped.jpg",
+    "categoria": ["Artes Cênicas"]
   },
   {
     "nome": "João da Baiana",
     "ano": "1887 - 1974",
     "descricao": "Músico, compositor e percussionista brasileiro. Foi um dos criadores do samba carioca e um dos primeiros a incorporar o pandeiro nas rodas de samba.",
     "link": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_da_Baiana",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jo%C3%A3odaBaiana01.jpg/260px-Jo%C3%A3odaBaiana01.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jo%C3%A3odaBaiana01.jpg/260px-Jo%C3%A3odaBaiana01.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Jamelão",
     "ano": "1913 - 2008",
     "descricao": "Cantor e sambista brasileiro, conhecido por sua voz potente e por ser o intérprete oficial dos sambas-enredo da Estação Primeira de Mangueira por muitos anos.",
     "link": "https://pt.wikipedia.org/wiki/Jamel%C3%A3o_(cantor)",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jamel%C3%A3o.jpg/330px-Jamel%C3%A3o.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jamel%C3%A3o.jpg/330px-Jamel%C3%A3o.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Paulo Lins",
     "ano": "1958 - presente",
     "descricao": "Escritor, poeta e roteirista brasileiro, autor do romance 'Cidade de Deus', que deu origem ao aclamado filme homônimo.",
     "link": "https://pt.wikipedia.org/wiki/Paulo_Lins",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Paulo_Lins_-_Salon_du_livre_de_Paris_2015_%282%29.jpg/500px-Paulo_Lins_-_Salon_du_livre_de_Paris_2015_%282%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Paulo_Lins_-_Salon_du_livre_de_Paris_2015_%282%29.jpg/500px-Paulo_Lins_-_Salon_du_livre_de_Paris_2015_%282%29.jpg",
+    "categoria": ["Literatura"]
   },
   {
     "nome": "Zezé Motta",
     "ano": "1944 - presente",
     "descricao": "Atriz e cantora brasileira, notável por sua atuação no cinema, teatro e televisão, sendo um símbolo de resistência e beleza negra na arte brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Zez%C3%A9_Motta",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zeze_Motta_2011.jpg/500px-Zeze_Motta_2011.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zeze_Motta_2011.jpg/500px-Zeze_Motta_2011.jpg",
+    "categoria": ["Artes Cênicas", "Música"]
   },
   {
     "nome": "Bezerra da Silva",
     "ano": "1927 - 2005",
     "descricao": "Músico e sambista brasileiro, notório por suas canções que narravam o cotidiano e as problemáticas sociais dos morros e subúrbios cariocas.",
     "link": "https://pt.wikipedia.org/wiki/Bezerra_da_Silva",
-    "imagem": "https://pt.wikipedia.org/wiki/Special:FilePath/Bezerra_da_Silva.jpg?width=600"
+    "imagem": "https://pt.wikipedia.org/wiki/Special:FilePath/Bezerra_da_Silva.jpg?width=600",
+    "categoria": ["Música"]
   },
   {
     "nome": "Neusa Santos Souza",
     "ano": "1954 - 2008",
     "descricao": "Psicanalista, médica e escritora brasileira. Seu livro 'Tornar-se Negro' é uma obra seminal sobre identidade e negritude no Brasil.",
     "link": "https://pt.wikipedia.org/wiki/Neusa_Santos_Souza",
-    "imagem": "https://th.bing.com/th/id/R.d1fb2238019075f0c6c43748143b371e?rik=YK8h5pge9gvLyg&riu=http%3a%2f%2fconteudo.imguol.com.br%2fc%2fentretenimento%2f8f%2f2021%2f10%2f14%2fa-psiquiatra-e-psicanalista-neusa-santos-souza-1634233792198_v2_3x4.jpg&ehk=vPknnR43quxBrmSeQg2Pts3t980Fr9SeVOjxstP6SSA%3d&risl=&pid=ImgRaw&r=0"
+    "imagem": "https://th.bing.com/th/id/R.d1fb2238019075f0c6c43748143b371e?rik=YK8h5pge9gvLyg&riu=http%3a%2f%2fconteudo.imguol.com.br%2fc%2fentretenimento%2f8f%2f2021%2f10%2f14%2fa-psiquiatra-e-psicanalista-neusa-santos-souza-1634233792198_v2_3x4.jpg&ehk=vPknnR43quxBrmSeQg2Pts3t980Fr9SeVOjxstP6SSA%3d&risl=&pid=ImgRaw&r=0",
+    "categoria": ["Academia", "Literatura"]
   },
   {
     "nome": "Alcione",
     "ano": "1947 - presente",
     "descricao": "Cantora, compositora e instrumentista brasileira, conhecida como 'Marrom'. É uma das maiores sambistas do país, com uma carreira de grande sucesso.",
     "link": "https://pt.wikipedia.org/wiki/Alcione_(cantora)",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alcione_-_Festival_Grls%21_2023_%2804%29.png/500px-Alcione_-_Festival_Grls%21_2023_%2804%29.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alcione_-_Festival_Grls%21_2023_%2804%29.png/500px-Alcione_-_Festival_Grls%21_2023_%2804%29.png",
+    "categoria": ["Música"]
   },
   {
     "nome": "Elisa Lucinda",
     "ano": "1958 - presente",
     "descricao": "Atriz, poetisa, cantora e roteirista brasileira. Sua obra poética e sua atuação destacam a força da mulher negra e a cultura afro-brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Elisa_Lucinda",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2018-05-23_Elisa_Lucinda_06_%28cropped%29.jpg/500px-2018-05-23_Elisa_Lucinda_06_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2018-05-23_Elisa_Lucinda_06_%28cropped%29.jpg/500px-2018-05-23_Elisa_Lucinda_06_%28cropped%29.jpg",
+    "categoria": ["Artes Cênicas", "Literatura", "Música"]
   },
   {
     "nome": "Luiz Melodia",
     "ano": "1951 - 2017",
     "descricao": "Cantor e compositor brasileiro, conhecido por misturar samba, rock, blues e MPB em um estilo único. Foi uma figura icônica da música popular carioca.",
     "link": "https://pt.wikipedia.org/wiki/Luiz_Melodia",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luiz_Melodia_cropped_2.jpg/500px-Luiz_Melodia_cropped_2.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luiz_Melodia_cropped_2.jpg/500px-Luiz_Melodia_cropped_2.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Madame Satã",
     "ano": "1900 - 1976",
     "descricao": "Figura lendária da boemia carioca, malandro e capoeirista. João Francisco dos Santos, conhecido como Madame Satã, se tornou um mito urbano na Lapa.",
     "link": "https://pt.wikipedia.org/wiki/Madame_Sat%C3%A3",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Madame_Sat%C3%A3_%281972%29.tiff/lossy-page1-300px-Madame_Sat%C3%A3_%281972%29.tiff.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Madame_Sat%C3%A3_%281972%29.tiff/lossy-page1-300px-Madame_Sat%C3%A3_%281972%29.tiff.jpg",
+    "categoria": ["Cultura"]
   },
   {
     "nome": "Solano Trindade",
     "ano": "1908 - 1974",
     "descricao": "Poeta, folclorista, pintor e militante do movimento negro brasileiro. Foi um dos pioneiros na valorização da cultura afro-brasileira na literatura e nas artes.",
     "link": "https://pt.wikipedia.org/wiki/Solano_Trindade",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solano_Trindade_%281950%29.tif/lossy-page1-375px-Solano_Trindade_%281950%29.tif.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solano_Trindade_%281950%29.tif/lossy-page1-375px-Solano_Trindade_%281950%29.tif.jpg",
+    "categoria": ["Literatura", "Arte", "Ativismo"]
   },
   {
     "nome": "Wilson das Neves",
     "ano": "1936 - 2017",
     "descricao": "Baterista, percussionista e cantor brasileiro. Um dos maiores bateristas da história do samba e da MPB, com vasta contribuição em gravações icônicas.",
     "link": "https://pt.wikipedia.org/wiki/Wilson_das_Neves",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wilson_das_Neves.jpg/500px-Wilson_das_Neves.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wilson_das_Neves.jpg/500px-Wilson_das_Neves.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Haroldo Costa",
     "ano": "1923 - 2021",
     "descricao": "Ator, dançarino, escritor e produtor cultural brasileiro, conhecido por sua dedicação ao samba e à cultura popular, sendo um embaixador do carnaval brasileiro.",
     "link": "https://pt.wikipedia.org/wiki/Haroldo_Costa",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Haroldocosta.jpg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Haroldocosta.jpg?width=600",
+    "categoria": ["Artes Cênicas", "Literatura", "Cultura"]
   },
   {
     "nome": "Dona Onete",
     "ano": "1939 - presente",
     "descricao": "Cantora e compositora paraense, considerada a Rainha do Carimbó Chamegado. Começou sua carreira internacionalmente aos 70 anos.",
     "link": "https://pt.wikipedia.org/wiki/Dona_Onete",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/SENSACIONAL%21_2024_-_DONA_ONETE_%2854312916819%29.jpg/500px-SENSACIONAL%21_2024_-_DONA_ONETE_%2854312916819%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/SENSACIONAL%21_2024_-_DONA_ONETE_%2854312916819%29.jpg/500px-SENSACIONAL%21_2024_-_DONA_ONETE_%2854312916819%29.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Erika Hilton",
     "ano": "1992 - presente",
     "descricao": "Política e ativista brasileira, primeira mulher trans negra a se eleger deputada federal por São Paulo, destacando-se na defesa dos direitos LGBTQIA+ e antirracismo.",
     "link": "https://pt.wikipedia.org/wiki/Erika_Hilton",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erika_Hilton_em_sess%C3%A3o_em_abril_de_2024_%28cropped%29.jpg/500px-Erika_Hilton_em_sess%C3%A3o_em_abril_de_2024_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erika_Hilton_em_sess%C3%A3o_em_abril_de_2024_%28cropped%29.jpg/500px-Erika_Hilton_em_sess%C3%A3o_em_abril_de_2024_%28cropped%29.jpg",
+    "categoria": ["Política", "Ativismo"]
   },
   {
     "nome": "Jurema Werneck",
     "ano": "1961 - presente",
     "descricao": "Médica, ativista feminista negra e militante dos direitos humanos no Brasil. É diretora executiva da Anistia Internacional no país.",
     "link": "https://pt.wikipedia.org/wiki/Jurema_Werneck",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jurema_Werneck_%28cropped%29.jpg/500px-Jurema_Werneck_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jurema_Werneck_%28cropped%29.jpg/500px-Jurema_Werneck_%28cropped%29.jpg",
+    "categoria": ["Ativismo", "Saúde"]
   },
   {
     "nome": "Cacau Protásio",
     "ano": "1975 - presente",
     "descricao": "Atriz e comediante brasileira, famosa por seus papéis no teatro e na televisão, especialmente em programas de humor, sendo uma forte voz negra na comédia.",
     "link": "https://pt.wikipedia.org/wiki/Cacau_Prot%C3%A1sio",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cacau_Prot%C3%A1sio.jpg/500px-Cacau_Prot%C3%A1sio.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cacau_Prot%C3%A1sio.jpg/500px-Cacau_Prot%C3%A1sio.jpg",
+    "categoria": ["Artes Cênicas"]
   },
   {
     "nome": "Jards Macalé",
     "ano": "1943 - presente",
     "descricao": "Músico, cantor e compositor brasileiro, figura importante do movimento tropicalista e da música de vanguarda, conhecido por sua originalidade artística.",
     "link": "https://pt.wikipedia.org/wiki/Jards_Macal%C3%A9",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Macale_%281973%29_restored.png/500px-Macale_%281973%29_restored.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Macale_%281973%29_restored.png/500px-Macale_%281973%29_restored.png",
+    "categoria": ["Música"]
   },
   {
     "nome": "Mestre Didi",
     "ano": "1917 - 2013",
     "descricao": "Artista plástico, escultor e sacerdote do Candomblé (Alapini) brasileiro. Sua arte, profundamente ligada à cultura yorubá, foi reconhecida internacionalmente.",
     "link": "https://pt.wikipedia.org/wiki/Mestre_Didi",
-    "imagem": "https://warholfoundation.org/wp-content/uploads/2025/04/7_Mestre-Didi-Retrato-EDITADO-Aprimorado-SR-1172x781.jpg"
+    "imagem": "https://warholfoundation.org/wp-content/uploads/2025/04/7_Mestre-Didi-Retrato-EDITADO-Aprimorado-SR-1172x781.jpg",
+    "categoria": ["Arte", "Religião"]
   },
   {
     "nome": "Lázaro Ramos",
     "ano": "1978 - Atual",
     "descricao": "Ator, diretor, apresentador e escritor baiano, reconhecido por sua versatilidade no cinema, teatro e televisão, sendo uma das figuras mais influentes da cultura negra contemporânea no Brasil.",
     "link": "https://pt.wikipedia.org/wiki/Lázaro_Ramos",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/L%C3%A1zaro_Ramos_01.jpg/500px-L%C3%A1zaro_Ramos_01.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/L%C3%A1zaro_Ramos_01.jpg/500px-L%C3%A1zaro_Ramos_01.jpg",
+    "categoria": ["Artes Cênicas", "Literatura"]
   },
   {
     "nome": "Chica Xavier",
     "ano": "1933 - 2020",
     "descricao": "Atriz de teatro, cinema e televisão, conhecida por papéis marcantes em telenovelas e por sua forte representatividade nas artes cênicas brasileiras, frequentemente interpretando personagens ligados à ancestralidade e ao candomblé.",
     "link": "https://pt.wikipedia.org/wiki/Chica_Xavier",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Chica_Xavier.jpeg?width=600"
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Chica_Xavier.jpeg?width=600",
+    "categoria": ["Artes Cênicas"]
   },
   {
     "nome": "Leci Brandão",
     "ano": "1944 - Atual",
     "descricao": "Cantora, compositora e política brasileira, uma das primeiras mulheres a ingressar na ala de compositores da Estação Primeira de Mangueira. Sua obra é marcada pela crítica social e pela defesa dos direitos humanos.",
     "link": "https://pt.wikipedia.org/wiki/Leci_Brandão",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/58_230624_-_Giselle_Dietze_-_SENSA_-_100_%2853011499823%29.jpg/500px-58_230624_-_Giselle_Dietze_-_SENSA_-_100_%2853011499823%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/58_230624_-_Giselle_Dietze_-_SENSA_-_100_%2853011499823%29.jpg/500px-58_230624_-_Giselle_Dietze_-_SENSA_-_100_%2853011499823%29.jpg",
+    "categoria": ["Música", "Política"]
   },
   {
     "nome": "Mestre Bimba",
     "ano": "1899 - 1974",
     "descricao": "Capoeirista baiano, considerado um dos pioneiros na valorização e sistematização da capoeira, criador da Capoeira Regional. Seu trabalho foi fundamental para a aceitação da arte marcial pelo poder público.",
     "link": "https://pt.wikipedia.org/wiki/Mestre_Bimba",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d2/Mestre_Bimba.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d2/Mestre_Bimba.jpg",
+    "categoria": ["Esporte", "Cultura"]
   },
   {
     "nome": "Wilson Simonal",
     "ano": "1938 - 2000",
     "descricao": "Cantor popular brasileiro de grande sucesso nas décadas de 1960 e 1970, notabilizado por seu carisma, estilo único e por misturar bossa nova, jazz e soul music, criando o movimento 'Pilantragem'.",
     "link": "https://pt.wikipedia.org/wiki/Wilson_Simonal",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilson_Simonal_%281964%29_Vers%C3%A3o_2.jpg/330px-Wilson_Simonal_%281964%29_Vers%C3%A3o_2.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilson_Simonal_%281964%29_Vers%C3%A3o_2.jpg/330px-Wilson_Simonal_%281964%29_Vers%C3%A3o_2.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Joãosinho Trinta",
     "ano": "1933 - 2011",
     "descricao": "Carnavalesco de destaque, responsável por revolucionar os desfiles das escolas de samba do Rio de Janeiro ao introduzir o conceito de luxo e criatividade estética, especialmente na Beija-Flor.",
     "link": "https://pt.wikipedia.org/wiki/Joãozinho_Trinta",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lan%C3%A7amento_do_livro_sobre_Jo%C3%A3osinho_Trinta_%28Fot%C3%B3grafo_Henrique_Matos%29_04.jpg/330px-Lan%C3%A7amento_do_livro_sobre_Jo%C3%A3osinho_Trinta_%28Fot%C3%B3grafo_Henrique_Matos%29_04.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lan%C3%A7amento_do_livro_sobre_Jo%C3%A3osinho_Trinta_%28Fot%C3%B3grafo_Henrique_Matos%29_04.jpg/330px-Lan%C3%A7amento_do_livro_sobre_Jo%C3%A3osinho_Trinta_%28Fot%C3%B3grafo_Henrique_Matos%29_04.jpg",
+    "categoria": ["Arte", "Cultura"]
   },
   {
     "nome": "Tony Tornado",
     "ano": "1930 - Atual",
     "descricao": "Cantor e ator brasileiro, vencedor do Festival Internacional da Canção de 1972. Famoso por sua interpretação na música soul e por papéis marcantes na televisão brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Toni_Tornado",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tonytornado_tvbrasil.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tonytornado_tvbrasil.jpg",
+    "categoria": ["Música", "Artes Cênicas"]
   },
   {
     "nome": "Maria Felipa de Oliveira",
     "ano": "1800 - 1873",
     "descricao": "Heroína da Independência do Brasil na Bahia. Liderou mulheres e homens em batalhas contra as tropas portuguesas na Ilha de Itaparica, utilizando táticas de guerrilha.",
     "link": "https://pt.wikipedia.org/wiki/Maria_Felipa_de_Oliveira",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Imagem_monumento_Maria_Felipa_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Imagem_monumento_Maria_Felipa_%28cropped%29.jpg",
+    "categoria": ["Liderança", "Ativismo"]
   },
   {
     "nome": "José do Patrocínio",
     "ano": "1853 - 1905",
     "descricao": "Jornalista, escritor, orador e ativista político brasileiro. Foi um dos maiores líderes do movimento abolicionista no país, sendo apelidado de 'Tigre da Abolição'.",
     "link": "https://pt.wikipedia.org/wiki/José_do_Patrocínio",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jos%C3%A9_do_Patroc%C3%ADnio.jpg/375px-Jos%C3%A9_do_Patroc%C3%ADnio.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jos%C3%A9_do_Patroc%C3%ADnio.jpg/375px-Jos%C3%A9_do_Patroc%C3%ADnio.jpg",
+    "categoria": ["Jornalismo", "Literatura", "Ativismo"]
   },
   {
     "nome": "Chico Science",
     "ano": "1966 - 1997",
     "descricao": "Músico e poeta brasileiro, líder da banda Chico Science & Nação Zumbi e principal idealizador do movimento Manguebeat, que misturava ritmos regionais de Pernambuco com rock, hip hop e música eletrônica.",
     "link": "https://pt.wikipedia.org/wiki/Chico_Science",
-    "imagem": "https://pt.wikipedia.org/wiki/Special:FilePath/Chico_Science.jpg?width=600"
+    "imagem": "https://pt.wikipedia.org/wiki/Special:FilePath/Chico_Science.jpg?width=600",
+    "categoria": ["Música"]
   },
   {
     "nome": "Mussum",
     "ano": "1941 - 1994",
     "descricao": "Comediante, ator e músico brasileiro, membro fundador do grupo Os Originais do Samba e integrante notório do programa humorístico Os Trapalhões, sendo um ícone da cultura popular brasileira.",
     "link": "https://pt.wikipedia.org/wiki/Mussum",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/65/Mussum.jpeg/500px-Mussum.jpeg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/65/Mussum.jpeg/500px-Mussum.jpeg",
+    "categoria": ["Artes Cênicas", "Música"]
   },
   {
     "nome": "Mãe Menininha do Gantois",
     "ano": "1894 - 1986",
     "descricao": "Ialorixá de Candomblé, uma das mais influentes líderes religiosas do Brasil, conhecida por sua sabedoria, tolerância e por ter popularizado o Candomblé para além de Salvador.",
     "link": "https://pt.wikipedia.org/wiki/Mãe_Menininha_do_Gantois",
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4f/Mae_menininha1974.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4f/Mae_menininha1974.jpg",
+    "categoria": ["Religião", "Liderança"]
   },
   {
     "nome": "Adhemar Ferreira da Silva",
     "ano": "1927 - 2001",
     "descricao": "Atleta brasileiro, bicampeão olímpico e recordista mundial no salto triplo (Helsinque 1952 e Melbourne 1956). Foi um dos primeiros grandes heróis negros do esporte brasileiro.",
     "link": "https://pt.wikipedia.org/wiki/Adhemar_Ferreira_da_Silva",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ademar_Ferreira_da_Silva_%281956%29.tif/lossy-page1-330px-Ademar_Ferreira_da_Silva_%281956%29.tif.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ademar_Ferreira_da_Silva_%281956%29.tif/lossy-page1-330px-Ademar_Ferreira_da_Silva_%281956%29.tif.jpg",
+    "categoria": ["Esporte"]
   },
   {
     "nome": "Esperança Garcia",
     "ano": "1751 -",
     "descricao": "Símbolo da resistência negra, conhecida por ter escrito uma petição em 1770, considerada o primeiro documento jurídico assinado por uma mulher escravizada no Brasil, pleiteando seus direitos e de sua família.",
     "link": "https://pt.wikipedia.org/wiki/Esperança_Garcia",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Central_de_Artesanato_Mestre_Dezinho_%28Esperan%C3%A7a_Garcia%29.jpg/500px-Central_de_Artesanato_Mestre_Dezinho_%28Esperan%C3%A7a_Garcia%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Central_de_Artesanato_Mestre_Dezinho_%28Esperan%C3%A7a_Garcia%29.jpg/500px-Central_de_Artesanato_Mestre_Dezinho_%28Esperan%C3%A7a_Garcia%29.jpg",
+    "categoria": ["Ativismo"]
   },
   {
     "nome": "Enedina Alves Marques",
     "ano": "1913 - 1981",
     "descricao": "Primeira engenheira negra do Brasil e primeira mulher a se formar em Engenharia Civil no Paraná (1945). Enfrentou preconceitos e se tornou um símbolo de superação e excelência técnica.",
     "link": "https://pt.wikipedia.org/wiki/Enedina_Alves_Marques",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Enedina.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Enedina.png",
+    "categoria": ["Engenharia"]
   },
   {
     "nome": "Babu Santana",
     "ano": "1979 - Atual",
     "descricao": "Ator brasileiro, notável por interpretar personagens históricos importantes, como Tim Maia e o Capitão Nascimento. Reconhecido por sua força dramática no cinema e televisão.",
     "link": "https://pt.wikipedia.org/wiki/Babu_Santana",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Babu_Santana_%28cropped%29.png/500px-Babu_Santana_%28cropped%29.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Babu_Santana_%28cropped%29.png/500px-Babu_Santana_%28cropped%29.png",
+    "categoria": ["Artes Cênicas"]
   },
   {
     "nome": "Jorge Lafond (Vera Verão)",
     "ano": "1952 - 2003",
     "descricao": "Bailarino, ator e humorista. Tornou-se um ícone da representatividade LGBTQIA+ e negra na televisão brasileira, famoso por sua personagem Vera Verão no programa A Praça É Nossa.",
     "link": "https://pt.wikipedia.org/wiki/Jorge_Lafond",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jorge_Lafond%2C_A_Vera_Ver%C3%A3o.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jorge_Lafond%2C_A_Vera_Ver%C3%A3o.jpg",
+    "categoria": ["Artes Cênicas"]
   },
   {
     "nome": "Rebeca Andrade",
     "ano": "1999 - Atual",
     "descricao": "Ginasta artística, primeira mulher brasileira a conquistar medalhas de ouro e prata na ginástica em Jogos Olímpicos (Tóquio 2020), sendo uma referência de força e talento no esporte mundial.",
     "link": "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rebeca_Andrade_in_2023.jpg/500px-Rebeca_Andrade_in_2023.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rebeca_Andrade_in_2023.jpg/500px-Rebeca_Andrade_in_2023.jpg",
+    "categoria": ["Esporte"]
   },
   {
     "nome": "Tati Quebra Barraco",
     "ano": "1979 - Atual",
     "descricao": "Cantora e compositora, pioneira do funk carioca e uma das primeiras mulheres a ganhar notoriedade nacional no gênero. Conhecida por suas letras que abordam a realidade social e a sexualidade feminina.",
     "link": "https://pt.wikipedia.org/wiki/Tati_Quebra_Barraco",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tati_Quebra_Barraco_2023.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tati_Quebra_Barraco_2023.jpg",
+    "categoria": ["Música"]
   },
   {
     "nome": "Marina Silva",
     "ano": "1958 - Atual",
     "descricao": "Ambientalista e política brasileira. Ex-seringueira no Acre, tornou-se Ministra do Meio Ambiente, sendo internacionalmente reconhecida por sua luta pela Amazônia e desenvolvimento sustentável.",
     "link": "https://pt.wikipedia.org/wiki/Marina_Silva",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/31.07.2024_-_Visita_%C3%A0_Base_Prevfogo_Ibama_de_Corumb%C3%A1_%2853893982568%29_%28cropped%29.jpg/500px-31.07.2024_-_Visita_%C3%A0_Base_Prevfogo_Ibama_de_Corumb%C3%A1_%2853893982568%29_%28cropped%29.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/31.07.2024_-_Visita_%C3%A0_Base_Prevfogo_Ibama_de_Corumb%C3%A1_%2853893982568%29_%28cropped%29.jpg/500px-31.07.2024_-_Visita_%C3%A0_Base_Prevfogo_Ibama_de_Corumb%C3%A1_%2853893982568%29_%28cropped%29.jpg",
+    "categoria": ["Política", "Ativismo"]
   },
   {
     "nome": "Chica da Silva",
     "ano": "1731 - 1796",
     "descricao": "Ex-escrava que se tornou uma das mulheres mais ricas e poderosas do Brasil colonial em Diamantina (MG), através de seu relacionamento com o contratador de diamantes João Fernandes de Oliveira, desafiando a estrutura social da época.",
     "link": "https://pt.wikipedia.org/wiki/Chica_da_Silva",
-    "imagem": "https://www.opovo.com.br/_midias/jpg/2025/03/05/chica_da_silva-33256699.jpg"
+    "imagem": "https://www.opovo.com.br/_midias/jpg/2025/03/05/chica_da_silva-33256699.jpg",
+    "categoria": ["História"]
   }
 ]
