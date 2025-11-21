@@ -1,8 +1,11 @@
 let cardContainer = document.querySelector('.card-container');
 let searchInput = document.querySelector('#search-input');
 let searchButton = document.querySelector('#botao-busca'); // Adicione um botão com id="search-button" no seu HTML
+let filtrosContainer = document.querySelector('#filtros-container');
 let dados = [];
-
+let dadosFiltradosAtualmente = [];
+let categoriasSelecionadas = new Set();
+ 
 async function iniciarBusca() {
     try {
         let resposta = await fetch('data.json');
@@ -15,13 +18,16 @@ async function iniciarBusca() {
             return anoA - anoB;
         });
 
-        renderizarCards(dados); // Mostra todos os cards inicialmente, agora ordenados
-        
+        dadosFiltradosAtualmente = [...dados]; // Inicializa com todos os dados
+        renderizarFiltrosDeCategoria(dados);
+        renderizarCards(dadosFiltradosAtualmente); // Mostra todos os cards inicialmente
+
         // Função que executa a busca e renderiza os resultados
         const executarBusca = () => {
             const termoBusca = searchInput.value;
-            const dadosFiltrados = filtrarDados(termoBusca);
-            renderizarCards(dadosFiltrados);
+            // A busca por texto agora vai operar sobre os dados já filtrados pela categoria
+            const dadosFiltradosPorTexto = filtrarDadosPorTexto(termoBusca, dadosFiltradosAtualmente);
+            renderizarCards(dadosFiltradosPorTexto);
         };
 
         // Adiciona a pesquisa em tempo real (ao digitar)
@@ -38,18 +44,78 @@ async function iniciarBusca() {
     }
 }
 
-function filtrarDados(termo) {
+function filtrarDadosPorTexto(termo, dadosParaFiltrar) {
     const termoNormalizado = termo.trim().toLowerCase();
-    return dados.filter(dado =>
+    if (!termoNormalizado) {
+        return dadosParaFiltrar; // Se a busca estiver vazia, retorna os dados atuais
+    }
+    return dadosParaFiltrar.filter(dado =>
         dado.nome.toLowerCase().includes(termoNormalizado) ||
         dado.descricao.toLowerCase().includes(termoNormalizado) ||
-        dado.ano.toLowerCase().includes(termoNormalizado)
+        dado.ano.toLowerCase().includes(termoNormalizado) ||
+        (dado.categoria && dado.categoria.some(cat => cat.toLowerCase().includes(termoNormalizado)))
     );
+}
+
+function aplicarFiltrosDeCategoria() {
+    const btnTodos = document.querySelector('#filtros-container button'); // O primeiro botão é "Mostrar Todos"
+
+    if (categoriasSelecionadas.size === 0) {
+        dadosFiltradosAtualmente = [...dados];
+        document.querySelectorAll('.filtro-btn').forEach(btn => btn.classList.remove('active'));
+        if (btnTodos) btnTodos.classList.add('active');
+    } else {
+        dadosFiltradosAtualmente = dados.filter(d =>
+            d.categoria.some(cat => categoriasSelecionadas.has(cat))
+        );
+        if (btnTodos) btnTodos.classList.remove('active');
+    }
+    renderizarCards(dadosFiltradosAtualmente);
+}
+
+function renderizarFiltrosDeCategoria(dados) {
+    const todasCategorias = new Set();
+    dados.forEach(item => {
+        item.categoria.forEach(cat => todasCategorias.add(cat));
+    });
+
+    filtrosContainer.innerHTML = ''; // Limpa filtros existentes
+
+    // Botão "Mostrar Todos"
+    const btnTodos = document.createElement('button');
+    btnTodos.textContent = 'Mostrar Todos';
+    btnTodos.classList.add('filtro-btn', 'active'); // Começa como ativo
+    btnTodos.addEventListener('click', () => {
+        categoriasSelecionadas.clear();
+        document.querySelectorAll('.filtro-btn.active').forEach(btn => btn.classList.remove('active'));
+        aplicarFiltrosDeCategoria();
+    });
+    filtrosContainer.appendChild(btnTodos);
+
+    // Botões para cada categoria
+    Array.from(todasCategorias).sort().forEach(categoria => {
+        const btn = document.createElement('button');
+        btn.textContent = categoria;
+        btn.classList.add('filtro-btn');
+        btn.addEventListener('click', () => {
+            if (categoriasSelecionadas.has(categoria)) {
+                categoriasSelecionadas.delete(categoria);
+            } else {
+                categoriasSelecionadas.add(categoria);
+            }
+            btn.classList.toggle('active');
+            aplicarFiltrosDeCategoria();
+        });
+        filtrosContainer.appendChild(btn);
+    });
 }
 
 function renderizarCards(dadosParaRenderizar) {
     cardContainer.innerHTML = ''; // Limpa o container antes de renderizar os novos cards
     for (let dado of dadosParaRenderizar) {
+        // Cria as tags de categoria
+        const categoriasHtml = dado.categoria.map(cat => `<span class="categoria-tag">${cat}</span>`).join('');
+
         let article = document.createElement('article');
         article.classList.add('card');
         article.innerHTML = `
@@ -58,6 +124,7 @@ function renderizarCards(dadosParaRenderizar) {
             <h2>${dado.nome}</h2>
             <p>${dado.ano}</p>
             <p>${dado.descricao}</p>
+            <div class="categorias-container">${categoriasHtml}</div>
             <a href="${dado.link}" target="_blank">Saiba mais</a>
         </div>
         `;
