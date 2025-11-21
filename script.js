@@ -74,12 +74,30 @@ function aplicarFiltrosDeCategoria() {
 }
 
 function renderizarFiltrosDeCategoria(dados) {
+    filtrosContainer.innerHTML = ''; // Limpa filtros existentes
+
+    // Botão para mostrar/esconder as categorias
+    const toggleBtn = document.createElement('a');
+    toggleBtn.textContent = 'Filtrar por Categoria';
+    toggleBtn.classList.add('toggle-filtros-btn');
+    filtrosContainer.appendChild(toggleBtn);
+
+    // Container para os botões de categoria, que será escondido/mostrado
+    const categoryButtonsContainer = document.createElement('div');
+    categoryButtonsContainer.classList.add('category-buttons-container');
+    categoryButtonsContainer.style.display = 'none'; // Começa escondido
+    filtrosContainer.appendChild(categoryButtonsContainer);
+
+    toggleBtn.addEventListener('click', () => {
+        const isHidden = categoryButtonsContainer.style.display === 'none';
+        categoryButtonsContainer.style.display = isHidden ? 'flex' : 'none';
+        toggleBtn.textContent = isHidden ? 'Esconder Categorias' : 'Filtrar por Categoria';
+    });
+
     const todasCategorias = new Set();
     dados.forEach(item => {
         item.categoria.forEach(cat => todasCategorias.add(cat));
     });
-
-    filtrosContainer.innerHTML = ''; // Limpa filtros existentes
 
     // Botão "Mostrar Todos"
     const btnTodos = document.createElement('button');
@@ -90,7 +108,7 @@ function renderizarFiltrosDeCategoria(dados) {
         document.querySelectorAll('.filtro-btn.active').forEach(btn => btn.classList.remove('active'));
         aplicarFiltrosDeCategoria();
     });
-    filtrosContainer.appendChild(btnTodos);
+    categoryButtonsContainer.appendChild(btnTodos);
 
     // Botões para cada categoria
     Array.from(todasCategorias).sort().forEach(categoria => {
@@ -106,7 +124,7 @@ function renderizarFiltrosDeCategoria(dados) {
             btn.classList.toggle('active');
             aplicarFiltrosDeCategoria();
         });
-        filtrosContainer.appendChild(btn);
+        categoryButtonsContainer.appendChild(btn);
     });
 }
 

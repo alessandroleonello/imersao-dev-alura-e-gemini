@@ -27,7 +27,7 @@ header {
     padding: 1rem 2rem; /* Espaçamento vertical reduzido, horizontal aumentado */
     display: flex; /* Habilita o layout flexbox */
     align-items: center; /* Alinha os itens verticalmente ao centro */
-    justify-content: space-around; /* Distribui os itens com espaço ao redor */
+    justify-content: space-between; /* Distribui os itens com espaço ao redor */
     position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
     top: 0; /* Posição do topo quando sticky */
     background: rgba(26, 26, 26, 0.85); /* Fundo com leve transparência */
@@ -66,7 +66,7 @@ header h1 {
     display: flex;
     flex-grow: 1; /* Permite que o container cresça e ocupe o espaço */
     margin: 0 1rem;
-    max-width: 500px;
+    width: 100%; /* Ocupa toda a largura disponível */
 }
 
 .search-container input {
@@ -80,6 +80,7 @@ header h1 {
     width: 100%; /* Ocupa toda a largura do container pai */
     color: var(--secondary-color); /* Cor do texto digitado */
     margin-right: .5rem; /* Margem à direita */
+    min-width: 400px; /* Garante que o input não quebre o layout em telas pequenas */
 }
 
 .search-container input::placeholder {
@@ -92,6 +93,13 @@ header h1 {
     outline: none; /* Remove a borda de foco padrão */
     border-color: var(--bg-color); /* Muda a cor da borda ao focar */
     box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
+}
+
+.input-e-filtros {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items:  last baseline;
 }
 
 #botao-busca {
@@ -107,6 +115,8 @@ header h1 {
     background-color: var(--primary-color); /* Cor de fundo */
     color: var(--bg-color); /* Cor do texto */
     border: 1px solid var(--primary-color); /* Adiciona uma borda */
+    height: 50px; /* Altura automática */
+    margin: 0 1rem;
 }
 
 #botao-busca:hover {
@@ -268,6 +278,7 @@ article a:hover {
     }
     .search-container input { /* Estilos para o input em telas menores */
         font-size: 1.2rem; /* Reduz o tamanho da fonte */
+        min-width: 2px;
     }
 
     main { /* Estilos para o main em telas menores */
@@ -349,8 +360,24 @@ article a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  display: flex; /* Alterado para flex */
+  flex-direction: column; /* Organiza os itens em coluna */
+  align-items: center; /* Centraliza o botão de toggle e o container de botões */
   gap: 10px;
-  margin: 0 0 1rem 0;
+}
+
+.toggle-filtros-btn {
+background: none;
+  color: var(--primary-color);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0px 16px;
+}
+
+.toggle-filtros-btn:hover {
+  background-color: var(--primary-color);
+  color: var(--bg-color);
 }
 
 .filtro-btn {
@@ -375,6 +402,14 @@ article a:hover {
   background-color: var(--primary-color);
   color: var(--bg-color);
   border-color: var(--primary-color);
+}
+
+.category-buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px; /* Espaço entre o botão de toggle e os filtros */
 }
 
 /* Estilos para as etiquetas de categoria nos cards */
